@@ -47,13 +47,14 @@ body {
 }
 
 a {
-  color: #52d3aa;
+  color: rgba(0, 0, 0, 0):
+  background: #ffffff;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: #e0e0e0;
   outline: none;
   text-decoration: none;
 }
@@ -71,7 +72,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #52d3aa;
+  background: #e0e0e0;
 }
 
 ::-moz-selection {
