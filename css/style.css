@@ -239,7 +239,7 @@ figure {
 }
 
 .gtco-nav ul li.btn-cta a {
-    color: #e0e0e0;
+    color: rgba(0, 0, 0, 0);
 }
 
 .gtco-nav ul li.btn-cta a span {
