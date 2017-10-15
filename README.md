@@ -1,2 +1,1 @@
-title: [DragonMC]
-description: [Minecraft Skyblock Server]
+DragonMC
