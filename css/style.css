@@ -22,6 +22,10 @@ body {
     background: #fff;
 }
 
+.copyrights p {
+    margin-top: 30px;
+}
+
 #page {
     position: relative;
     overflow-x: hidden;
@@ -1024,7 +1028,7 @@ form label {
 #gtco-started .btn {
     height: 54px;
     border: none !important;
-    background: #52d3aa;
+    background: #BD596C;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
