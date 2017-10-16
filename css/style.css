@@ -2,6 +2,7 @@
     font-family: 'icomoon';
     src: url("../fonts/icomoon/icomoon.eot?srf3rx");
     src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+    src: url("../fonts/geo.otf");
     font-weight: normal;
     font-style: normal;
 }
@@ -570,6 +571,7 @@ form label {
     padding: 0;
     color: white;
     text-transform: uppercase;
+    font-family: geo;
 }
 
 #gtco-header .display-tc h1,
