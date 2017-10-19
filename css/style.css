@@ -19,6 +19,10 @@
 *
 * ======================================================= */
 
+.credfont {
+    font-family: 'geo';
+}
+
 body {
     font-family: "Work Sans", Arial, sans-serif;
     font-weight: 400;
