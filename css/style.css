@@ -12,6 +12,10 @@
     src: url("../fonts/Geomanist-Black.otf");
 }
 
+@font-face {
+    font-family: 'mus';
+    src: url("..fonts/MuseoSansCyrl_3");
+)
 
 /* =======================================================
 *
@@ -580,7 +584,7 @@ form label {
     padding: 0;
     color: white;
     text-transform: uppercase;
-    font-family: geo;
+    font-family: mus;
 }
 
 #gtco-header .display-tc h1,
