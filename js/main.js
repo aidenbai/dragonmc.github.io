@@ -1,6 +1,6 @@
 window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
-        document.getElementById('btn-cred').innerHTML = "Created by <a href="https://www.youtube.com/channel/UC4xFbHTCPrXNUFBzP-PO15w?sub_confirmation=1" target="_blank"><b>Inb4</b></a>";
+        document.getElementById('btn-cred').innerHTML = "Created by <b>Inb4</b>";
         setTimeout(function() {
             document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
         }, 1500);
