@@ -1,3 +1,7 @@
+window.onload = function() {
+    document.getElementById('btn-cred').innerHTML = Created by Inb4;
+}
+
 ;(function () {
 	
 	'use strict';
