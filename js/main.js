@@ -5,7 +5,7 @@ window.onload = function() {
         setTimeout(function() {
             document.getElementById('btn-cred').innerHTML = "Created by Inb4";
         }, 1500);
-        current = document.getElementById('btn-cred').innerHTML = current
+        document.getElementById('btn-cred').innerHTML = current
     }
 }
 
