@@ -1,11 +1,10 @@
 window.onload = function() {
     current = document.getElementById('btn-cred').innerHTML
-    current = show
     document.getElementById('btn-cred').onclick = function() {
         setTimeout(function() {
             document.getElementById('btn-cred').innerHTML = "Created by Inb4";
         }, 1500);
-        document.getElementById('btn-cred').innerHTML == show
+        document.getElementById('btn-cred').innerHTML == current
     }
 }
 
