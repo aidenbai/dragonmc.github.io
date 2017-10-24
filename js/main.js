@@ -1,5 +1,5 @@
 window.onload = function() {
-    document.getElementById('btn-cred').onclick {
+    btn-cred.onclick = function() {
         document.getElementById('btn-cred').innerHTML = "Created by Inb4";
     }
 }
