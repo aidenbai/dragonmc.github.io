@@ -3,7 +3,7 @@ window.onload = function() {
         document.getElementById('btn-cred').innerHTML = "Created by <b>Inb4</b>";
         
         setTimeout(function() {
-            alert("Server IP: dragonmc.me")
+            swal("Server IP", "dragonmc.me");
             document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
         }, 1250);
     }
