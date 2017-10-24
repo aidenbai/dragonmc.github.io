@@ -31,8 +31,6 @@
 {
     display:inline-block;
     border:0;
-    width:250px;
-    height: 50px;
     position: relative;
     -webkit-transition: all 200ms ease-in;
     -webkit-transform: scale(1); 
