@@ -1,10 +1,9 @@
 window.onload = function() {
-    current = document.getElementById('btn-cred').innerHTML
     document.getElementById('btn-cred').onclick = function() {
+        document.getElementById('btn-cred').innerHTML = "Created by Inb4";
         setTimeout(function() {
-            document.getElementById('btn-cred').innerHTML = "Created by Inb4";
+            document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
         }, 1500);
-        document.getElementById('btn-cred').innerHTML == current
     }
 }
 
