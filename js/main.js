@@ -1,6 +1,6 @@
 window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
-        swal("Hello world!", {
+        swal("dragonmc.me", {
             buttons: false,
         });
         document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
