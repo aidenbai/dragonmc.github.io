@@ -67,6 +67,8 @@ body {
     line-height: 1.7;
     color: #828282;
     background: #fff;
+    z-index: 1;
+    overflow: hidden;
 }
 
 .copyrights p {
@@ -398,7 +400,7 @@ figure {
 }
 
 .gtco-cover {
-    height: 1000px;
+    height: 100%;
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
