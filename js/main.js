@@ -1,11 +1,7 @@
 window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
-        document.getElementById('btn-cred').innerHTML = "Created by <b>Inb4</b>";
-        
-        setTimeout(function() {
-            swal("Server IP", "Copy: dragonmc.me");
-            document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
-        }, 1250);
+        swal("Server IP", "Copy: dragonmc.me");
+        document.getElementById('btn-cred').innerHTML = "<b>Play:</b> dragonmc.me";
     }
 }
 
