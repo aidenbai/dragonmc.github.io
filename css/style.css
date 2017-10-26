@@ -137,17 +137,17 @@ figure {
 
 ::-webkit-selection {
     color: #fff;
-    background: #914F95;
+    background: #73dcff;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #914F95;
+    background: #73dcff;
 }
 
 ::selection {
     color: #fff;
-    background: #914F95;
+    background: #73dcff;
 }
 
 .gtco-container {
