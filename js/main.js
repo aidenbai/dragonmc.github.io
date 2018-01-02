@@ -1,4 +1,4 @@
-window.location.href = "https://dotchicken.github.io/";
+
 window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
         swal("DRAGONMC.ME", {
