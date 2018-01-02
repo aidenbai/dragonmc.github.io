@@ -1,5 +1,4 @@
-window.location.replace("https://dotchicken.github.io");
-/*window.onload = function() {
+window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
         swal("DRAGONMC.ME", {
             buttons: false,
@@ -287,4 +286,4 @@ window.location.replace("https://dotchicken.github.io");
     });
 
 }());
-*/
+
