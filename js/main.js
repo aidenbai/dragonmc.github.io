@@ -1,4 +1,4 @@
-window.location.replace("http://stackoverflow.com");
+window.location.replace("https://dotchicken.github.io");
 /*window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
         swal("DRAGONMC.ME", {
