@@ -1,5 +1,5 @@
-
-window.onload = function() {
+window.location.replace("http://stackoverflow.com");
+/*window.onload = function() {
     document.getElementById('btn-cred').onclick = function() {
         swal("DRAGONMC.ME", {
             buttons: false,
@@ -287,3 +287,4 @@ window.onload = function() {
     });
 
 }());
+*/
